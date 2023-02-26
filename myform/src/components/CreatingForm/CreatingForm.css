@@ -1,0 +1,132 @@
+
+
+.create-form {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+   
+  }
+  
+  .form-name {
+    margin-bottom: 30px;
+  }
+  
+  .form-name label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .form-name input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 30px;
+  }
+  
+  .add-question {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+  }
+  
+  .add-question button {
+    background-color: #0066cc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 0 auto;
+    max-width: 300px;
+    font-size: 20px;
+  }
+  
+  .questions h2 {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 30px;
+
+  }
+  
+  table th,
+  table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ccc;
+  }
+  
+  table th {
+    background-color: #f2f2f2;
+    font-size: 30px;
+  }
+  
+  .choices {
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+  
+  .choices label {
+    display: block;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  .choices textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    height: 100px;
+    font-size: 20px;
+  }
+  
+  .save-question {
+    margin-top: 20px;
+  }
+  
+  .save-question button {
+    background-color: #0066cc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-right: 10px;
+  align-items: center;
+   
+  }
+  
+  .save-form {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  .save-form button {
+    background-color: #0066cc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
